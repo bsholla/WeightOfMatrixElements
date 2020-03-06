@@ -1,0 +1,2804 @@
+{
+  "name": "Tribuna Qendrore",
+  "rows": [
+    {
+      "name": "9",
+      "places": [
+        {
+          "rowName": "9",
+          "placeName": "1",
+          "nextPlace": "2",
+          "previusPlace": "9",
+          "upPlace": null,
+          "downPlace": "1",
+          "coordinate": "1:1"
+        },
+        {
+          "rowName": "9",
+          "placeName": "2",
+          "nextPlace": "3",
+          "previusPlace": "1",
+          "upPlace": null,
+          "downPlace": "2",
+          "coordinate": "1:2"
+        },
+        {
+          "rowName": "9",
+          "placeName": "3",
+          "nextPlace": "4",
+          "previusPlace": "2",
+          "upPlace": null,
+          "downPlace": "3",
+          "coordinate": "1:3"
+        },
+        {
+          "rowName": "9",
+          "placeName": "4",
+          "nextPlace": "5",
+          "previusPlace": "3",
+          "upPlace": null,
+          "downPlace": "4",
+          "coordinate": "1:4"
+        },
+        {
+          "rowName": "9",
+          "placeName": "5",
+          "nextPlace": "6",
+          "previusPlace": "4",
+          "upPlace": null,
+          "downPlace": "5",
+          "coordinate": "1:5"
+        },
+        {
+          "rowName": "9",
+          "placeName": "6",
+          "nextPlace": "7",
+          "previusPlace": "5",
+          "upPlace": null,
+          "downPlace": "6",
+          "coordinate": "1:6"
+        },
+        {
+          "rowName": "9",
+          "placeName": "7",
+          "nextPlace": "8",
+          "previusPlace": "6",
+          "upPlace": null,
+          "downPlace": "7",
+          "coordinate": "1:7"
+        },
+        {
+          "rowName": "9",
+          "placeName": "8",
+          "nextPlace": "9",
+          "previusPlace": "7",
+          "upPlace": null,
+          "downPlace": "8",
+          "coordinate": "1:8"
+        },
+        {
+          "rowName": "9",
+          "placeName": "9",
+          "nextPlace": null,
+          "previusPlace": "8",
+          "upPlace": null,
+          "downPlace": "9",
+          "coordinate": "1:9"
+        },
+        {
+          "rowName": "9",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": "9",
+          "upPlace": null,
+          "downPlace": "10",
+          "coordinate": "1:10"
+        },
+        {
+          "rowName": "9",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": "11",
+          "coordinate": "1:11"
+        },
+        {
+          "rowName": "9",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "1:12"
+        },
+        {
+          "rowName": "9",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "1:13"
+        },
+        {
+          "rowName": "9",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "1:14"
+        },
+        {
+          "rowName": "9",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "1:15"
+        },
+        {
+          "rowName": "9",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "1:16"
+        },
+        {
+          "rowName": "9",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "1:17"
+        },
+        {
+          "rowName": "9",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "1:18"
+        },
+        {
+          "rowName": "9",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "1:19"
+        },
+        {
+          "rowName": "9",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "1:20"
+        },
+        {
+          "rowName": "9",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "1:21"
+        },
+        {
+          "rowName": "9",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "1:22"
+        },
+        {
+          "rowName": "9",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "1:23"
+        },
+        {
+          "rowName": "9",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "1:24"
+        },
+        {
+          "rowName": "9",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "1:25"
+        },
+        {
+          "rowName": "9",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "1:26"
+        },
+        {
+          "rowName": "9",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "1:27"
+        },
+        {
+          "rowName": "9",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "1:28"
+        },
+        {
+          "rowName": "9",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "1:29"
+        },
+        {
+          "rowName": "9",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "1:30"
+        },
+        {
+          "rowName": "9",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "1:31"
+        },
+        {
+          "rowName": "9",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "1:32"
+        },
+        {
+          "rowName": "9",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "1:33"
+        },
+        {
+          "rowName": "9",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "1:34"
+        }
+      ]
+    },
+    {
+      "name": "8",
+      "places": [
+        {
+          "rowName": "8",
+          "placeName": "1",
+          "nextPlace": "2",
+          "previusPlace": "8",
+          "upPlace": "1",
+          "downPlace": "1",
+          "coordinate": "2:1"
+        },
+        {
+          "rowName": "8",
+          "placeName": "2",
+          "nextPlace": "3",
+          "previusPlace": "1",
+          "upPlace": "2",
+          "downPlace": "2",
+          "coordinate": "2:2"
+        },
+        {
+          "rowName": "8",
+          "placeName": "3",
+          "nextPlace": "4",
+          "previusPlace": "2",
+          "upPlace": "3",
+          "downPlace": "3",
+          "coordinate": "2:3"
+        },
+        {
+          "rowName": "8",
+          "placeName": "4",
+          "nextPlace": "5",
+          "previusPlace": "3",
+          "upPlace": "4",
+          "downPlace": "4",
+          "coordinate": "2:4"
+        },
+        {
+          "rowName": "8",
+          "placeName": "5",
+          "nextPlace": "6",
+          "previusPlace": "4",
+          "upPlace": "5",
+          "downPlace": "5",
+          "coordinate": "2:5"
+        },
+        {
+          "rowName": "8",
+          "placeName": "6",
+          "nextPlace": "7",
+          "previusPlace": "5",
+          "upPlace": "6",
+          "downPlace": "6",
+          "coordinate": "2:6"
+        },
+        {
+          "rowName": "8",
+          "placeName": "7",
+          "nextPlace": "8",
+          "previusPlace": "6",
+          "upPlace": "7",
+          "downPlace": "7",
+          "coordinate": "2:7"
+        },
+        {
+          "rowName": "8",
+          "placeName": "8",
+          "nextPlace": "9",
+          "previusPlace": "7",
+          "upPlace": "8",
+          "downPlace": "8",
+          "coordinate": "2:8"
+        },
+        {
+          "rowName": "8",
+          "placeName": "9",
+          "nextPlace": "10",
+          "previusPlace": "8",
+          "upPlace": "9",
+          "downPlace": "9",
+          "coordinate": "2:9"
+        },
+        {
+          "rowName": "8",
+          "placeName": "10",
+          "nextPlace": "11",
+          "previusPlace": "9",
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "2:10"
+        },
+        {
+          "rowName": "8",
+          "placeName": "11",
+          "nextPlace": null,
+          "previusPlace": "10",
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "2:11"
+        },
+        {
+          "rowName": "8",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": "11",
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "2:12"
+        },
+        {
+          "rowName": "8",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "2:13"
+        },
+        {
+          "rowName": "8",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "2:14"
+        },
+        {
+          "rowName": "8",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "2:15"
+        },
+        {
+          "rowName": "8",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "2:16"
+        },
+        {
+          "rowName": "8",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "2:17"
+        },
+        {
+          "rowName": "8",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "2:18"
+        },
+        {
+          "rowName": "8",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "2:19"
+        },
+        {
+          "rowName": "8",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "2:20"
+        },
+        {
+          "rowName": "8",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "2:21"
+        },
+        {
+          "rowName": "8",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "2:22"
+        },
+        {
+          "rowName": "8",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "2:23"
+        },
+        {
+          "rowName": "8",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "2:24"
+        },
+        {
+          "rowName": "8",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "2:25"
+        },
+        {
+          "rowName": "8",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "2:26"
+        },
+        {
+          "rowName": "8",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "2:27"
+        },
+        {
+          "rowName": "8",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "2:28"
+        },
+        {
+          "rowName": "8",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "2:29"
+        },
+        {
+          "rowName": "8",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "2:30"
+        },
+        {
+          "rowName": "8",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "2:31"
+        },
+        {
+          "rowName": "8",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "2:32"
+        },
+        {
+          "rowName": "8",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "2:33"
+        },
+        {
+          "rowName": "8",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "2:34"
+        }
+      ]
+    },
+    {
+      "name": "7",
+      "places": [
+        {
+          "rowName": "7",
+          "placeName": "1",
+          "nextPlace": "2",
+          "previusPlace": "7",
+          "upPlace": "1",
+          "downPlace": "1",
+          "coordinate": "3:1"
+        },
+        {
+          "rowName": "7",
+          "placeName": "2",
+          "nextPlace": "3",
+          "previusPlace": "1",
+          "upPlace": "2",
+          "downPlace": "2",
+          "coordinate": "3:2"
+        },
+        {
+          "rowName": "7",
+          "placeName": "3",
+          "nextPlace": "4",
+          "previusPlace": "2",
+          "upPlace": "3",
+          "downPlace": "3",
+          "coordinate": "3:3"
+        },
+        {
+          "rowName": "7",
+          "placeName": "4",
+          "nextPlace": "5",
+          "previusPlace": "3",
+          "upPlace": "4",
+          "downPlace": "4",
+          "coordinate": "3:4"
+        },
+        {
+          "rowName": "7",
+          "placeName": "5",
+          "nextPlace": "6",
+          "previusPlace": "4",
+          "upPlace": "5",
+          "downPlace": "5",
+          "coordinate": "3:5"
+        },
+        {
+          "rowName": "7",
+          "placeName": "6",
+          "nextPlace": "7",
+          "previusPlace": "5",
+          "upPlace": "6",
+          "downPlace": "6",
+          "coordinate": "3:6"
+        },
+        {
+          "rowName": "7",
+          "placeName": "7",
+          "nextPlace": "8",
+          "previusPlace": "6",
+          "upPlace": "7",
+          "downPlace": "7",
+          "coordinate": "3:7"
+        },
+        {
+          "rowName": "7",
+          "placeName": "8",
+          "nextPlace": "9",
+          "previusPlace": "7",
+          "upPlace": "8",
+          "downPlace": "8",
+          "coordinate": "3:8"
+        },
+        {
+          "rowName": "7",
+          "placeName": "9",
+          "nextPlace": null,
+          "previusPlace": "8",
+          "upPlace": "9",
+          "downPlace": "9",
+          "coordinate": "3:9"
+        },
+        {
+          "rowName": "7",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": "9",
+          "upPlace": "10",
+          "downPlace": null,
+          "coordinate": "3:10"
+        },
+        {
+          "rowName": "7",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": "11",
+          "downPlace": null,
+          "coordinate": "3:11"
+        },
+        {
+          "rowName": "7",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "3:12"
+        },
+        {
+          "rowName": "7",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "3:13"
+        },
+        {
+          "rowName": "7",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "3:14"
+        },
+        {
+          "rowName": "7",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "3:15"
+        },
+        {
+          "rowName": "7",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "3:16"
+        },
+        {
+          "rowName": "7",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "3:17"
+        },
+        {
+          "rowName": "7",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "3:18"
+        },
+        {
+          "rowName": "7",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "3:19"
+        },
+        {
+          "rowName": "7",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "3:20"
+        },
+        {
+          "rowName": "7",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "3:21"
+        },
+        {
+          "rowName": "7",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "3:22"
+        },
+        {
+          "rowName": "7",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "3:23"
+        },
+        {
+          "rowName": "7",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "3:24"
+        },
+        {
+          "rowName": "7",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "3:25"
+        },
+        {
+          "rowName": "7",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": "26",
+          "coordinate": "3:26"
+        },
+        {
+          "rowName": "7",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": "27",
+          "coordinate": "3:27"
+        },
+        {
+          "rowName": "7",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": "28",
+          "coordinate": "3:28"
+        },
+        {
+          "rowName": "7",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": "29",
+          "coordinate": "3:29"
+        },
+        {
+          "rowName": "7",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": "30",
+          "coordinate": "3:30"
+        },
+        {
+          "rowName": "7",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": "31",
+          "coordinate": "3:31"
+        },
+        {
+          "rowName": "7",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": "32",
+          "coordinate": "3:32"
+        },
+        {
+          "rowName": "7",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": "33",
+          "coordinate": "3:33"
+        },
+        {
+          "rowName": "7",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "3:34"
+        }
+      ]
+    },
+    {
+      "name": "6",
+      "places": [
+        {
+          "rowName": "6",
+          "placeName": "1",
+          "nextPlace": "2",
+          "previusPlace": "6",
+          "upPlace": "1",
+          "downPlace": "1",
+          "coordinate": "4:1"
+        },
+        {
+          "rowName": "6",
+          "placeName": "2",
+          "nextPlace": "3",
+          "previusPlace": "1",
+          "upPlace": "2",
+          "downPlace": "2",
+          "coordinate": "4:2"
+        },
+        {
+          "rowName": "6",
+          "placeName": "3",
+          "nextPlace": "4",
+          "previusPlace": "2",
+          "upPlace": "3",
+          "downPlace": "3",
+          "coordinate": "4:3"
+        },
+        {
+          "rowName": "6",
+          "placeName": "4",
+          "nextPlace": "5",
+          "previusPlace": "3",
+          "upPlace": "4",
+          "downPlace": "4",
+          "coordinate": "4:4"
+        },
+        {
+          "rowName": "6",
+          "placeName": "5",
+          "nextPlace": "6",
+          "previusPlace": "4",
+          "upPlace": "5",
+          "downPlace": "5",
+          "coordinate": "4:5"
+        },
+        {
+          "rowName": "6",
+          "placeName": "6",
+          "nextPlace": "7",
+          "previusPlace": "5",
+          "upPlace": "6",
+          "downPlace": "6",
+          "coordinate": "4:6"
+        },
+        {
+          "rowName": "6",
+          "placeName": "7",
+          "nextPlace": "8",
+          "previusPlace": "6",
+          "upPlace": "7",
+          "downPlace": "7",
+          "coordinate": "4:7"
+        },
+        {
+          "rowName": "6",
+          "placeName": "8",
+          "nextPlace": "9",
+          "previusPlace": "7",
+          "upPlace": "8",
+          "downPlace": "8",
+          "coordinate": "4:8"
+        },
+        {
+          "rowName": "6",
+          "placeName": "9",
+          "nextPlace": null,
+          "previusPlace": "8",
+          "upPlace": "9",
+          "downPlace": "9",
+          "coordinate": "4:9"
+        },
+        {
+          "rowName": "6",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": "9",
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "4:10"
+        },
+        {
+          "rowName": "6",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "4:11"
+        },
+        {
+          "rowName": "6",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "4:12"
+        },
+        {
+          "rowName": "6",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "4:13"
+        },
+        {
+          "rowName": "6",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "4:14"
+        },
+        {
+          "rowName": "6",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "4:15"
+        },
+        {
+          "rowName": "6",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "4:16"
+        },
+        {
+          "rowName": "6",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "4:17"
+        },
+        {
+          "rowName": "6",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "4:18"
+        },
+        {
+          "rowName": "6",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "4:19"
+        },
+        {
+          "rowName": "6",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "4:20"
+        },
+        {
+          "rowName": "6",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "4:21"
+        },
+        {
+          "rowName": "6",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "4:22"
+        },
+        {
+          "rowName": "6",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "4:23"
+        },
+        {
+          "rowName": "6",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "4:24"
+        },
+        {
+          "rowName": "6",
+          "placeName": null,
+          "nextPlace": "26",
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "4:25"
+        },
+        {
+          "rowName": "6",
+          "placeName": "26",
+          "nextPlace": "27",
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": "26",
+          "coordinate": "4:26"
+        },
+        {
+          "rowName": "6",
+          "placeName": "27",
+          "nextPlace": "28",
+          "previusPlace": "26",
+          "upPlace": null,
+          "downPlace": "27",
+          "coordinate": "4:27"
+        },
+        {
+          "rowName": "6",
+          "placeName": "28",
+          "nextPlace": "29",
+          "previusPlace": "27",
+          "upPlace": null,
+          "downPlace": "28",
+          "coordinate": "4:28"
+        },
+        {
+          "rowName": "6",
+          "placeName": "29",
+          "nextPlace": "30",
+          "previusPlace": "28",
+          "upPlace": null,
+          "downPlace": "29",
+          "coordinate": "4:29"
+        },
+        {
+          "rowName": "6",
+          "placeName": "30",
+          "nextPlace": "31",
+          "previusPlace": "29",
+          "upPlace": null,
+          "downPlace": "30",
+          "coordinate": "4:30"
+        },
+        {
+          "rowName": "6",
+          "placeName": "31",
+          "nextPlace": "32",
+          "previusPlace": "30",
+          "upPlace": null,
+          "downPlace": "31",
+          "coordinate": "4:31"
+        },
+        {
+          "rowName": "6",
+          "placeName": "32",
+          "nextPlace": "33",
+          "previusPlace": "31",
+          "upPlace": null,
+          "downPlace": "32",
+          "coordinate": "4:32"
+        },
+        {
+          "rowName": "6",
+          "placeName": "33",
+          "nextPlace": null,
+          "previusPlace": "32",
+          "upPlace": null,
+          "downPlace": "33",
+          "coordinate": "4:33"
+        },
+        {
+          "rowName": "6",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": "33",
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "4:34"
+        }
+      ]
+    },
+    {
+      "name": "5",
+      "places": [
+        {
+          "rowName": "5",
+          "placeName": "1",
+          "nextPlace": "2",
+          "previusPlace": "5",
+          "upPlace": "1",
+          "downPlace": "1",
+          "coordinate": "5:1"
+        },
+        {
+          "rowName": "5",
+          "placeName": "2",
+          "nextPlace": "3",
+          "previusPlace": "1",
+          "upPlace": "2",
+          "downPlace": "2",
+          "coordinate": "5:2"
+        },
+        {
+          "rowName": "5",
+          "placeName": "3",
+          "nextPlace": "4",
+          "previusPlace": "2",
+          "upPlace": "3",
+          "downPlace": "3",
+          "coordinate": "5:3"
+        },
+        {
+          "rowName": "5",
+          "placeName": "4",
+          "nextPlace": "5",
+          "previusPlace": "3",
+          "upPlace": "4",
+          "downPlace": "4",
+          "coordinate": "5:4"
+        },
+        {
+          "rowName": "5",
+          "placeName": "5",
+          "nextPlace": "6",
+          "previusPlace": "4",
+          "upPlace": "5",
+          "downPlace": "5",
+          "coordinate": "5:5"
+        },
+        {
+          "rowName": "5",
+          "placeName": "6",
+          "nextPlace": "7",
+          "previusPlace": "5",
+          "upPlace": "6",
+          "downPlace": "6",
+          "coordinate": "5:6"
+        },
+        {
+          "rowName": "5",
+          "placeName": "7",
+          "nextPlace": "8",
+          "previusPlace": "6",
+          "upPlace": "7",
+          "downPlace": "7",
+          "coordinate": "5:7"
+        },
+        {
+          "rowName": "5",
+          "placeName": "8",
+          "nextPlace": "9",
+          "previusPlace": "7",
+          "upPlace": "8",
+          "downPlace": "8",
+          "coordinate": "5:8"
+        },
+        {
+          "rowName": "5",
+          "placeName": "9",
+          "nextPlace": null,
+          "previusPlace": "8",
+          "upPlace": "9",
+          "downPlace": "9",
+          "coordinate": "5:9"
+        },
+        {
+          "rowName": "5",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": "9",
+          "upPlace": null,
+          "downPlace": "10",
+          "coordinate": "5:10"
+        },
+        {
+          "rowName": "5",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": "11",
+          "coordinate": "5:11"
+        },
+        {
+          "rowName": "5",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": "12",
+          "coordinate": "5:12"
+        },
+        {
+          "rowName": "5",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": "13",
+          "coordinate": "5:13"
+        },
+        {
+          "rowName": "5",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": "14",
+          "coordinate": "5:14"
+        },
+        {
+          "rowName": "5",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": "15",
+          "coordinate": "5:15"
+        },
+        {
+          "rowName": "5",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": "16",
+          "coordinate": "5:16"
+        },
+        {
+          "rowName": "5",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": "17",
+          "coordinate": "5:17"
+        },
+        {
+          "rowName": "5",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": "18",
+          "coordinate": "5:18"
+        },
+        {
+          "rowName": "5",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": "19",
+          "coordinate": "5:19"
+        },
+        {
+          "rowName": "5",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": "20",
+          "coordinate": "5:20"
+        },
+        {
+          "rowName": "5",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": "21",
+          "coordinate": "5:21"
+        },
+        {
+          "rowName": "5",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": "22",
+          "coordinate": "5:22"
+        },
+        {
+          "rowName": "5",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": "23",
+          "coordinate": "5:23"
+        },
+        {
+          "rowName": "5",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": "24",
+          "coordinate": "5:24"
+        },
+        {
+          "rowName": "5",
+          "placeName": null,
+          "nextPlace": "26",
+          "previusPlace": null,
+          "upPlace": null,
+          "downPlace": "25",
+          "coordinate": "5:25"
+        },
+        {
+          "rowName": "5",
+          "placeName": "26",
+          "nextPlace": "27",
+          "previusPlace": null,
+          "upPlace": "26",
+          "downPlace": "26",
+          "coordinate": "5:26"
+        },
+        {
+          "rowName": "5",
+          "placeName": "27",
+          "nextPlace": "28",
+          "previusPlace": "26",
+          "upPlace": "27",
+          "downPlace": "27",
+          "coordinate": "5:27"
+        },
+        {
+          "rowName": "5",
+          "placeName": "28",
+          "nextPlace": "29",
+          "previusPlace": "27",
+          "upPlace": "28",
+          "downPlace": "28",
+          "coordinate": "5:28"
+        },
+        {
+          "rowName": "5",
+          "placeName": "29",
+          "nextPlace": "30",
+          "previusPlace": "28",
+          "upPlace": "29",
+          "downPlace": "29",
+          "coordinate": "5:29"
+        },
+        {
+          "rowName": "5",
+          "placeName": "30",
+          "nextPlace": "31",
+          "previusPlace": "29",
+          "upPlace": "30",
+          "downPlace": "30",
+          "coordinate": "5:30"
+        },
+        {
+          "rowName": "5",
+          "placeName": "31",
+          "nextPlace": "32",
+          "previusPlace": "30",
+          "upPlace": "31",
+          "downPlace": "31",
+          "coordinate": "5:31"
+        },
+        {
+          "rowName": "5",
+          "placeName": "32",
+          "nextPlace": "33",
+          "previusPlace": "31",
+          "upPlace": "32",
+          "downPlace": "32",
+          "coordinate": "5:32"
+        },
+        {
+          "rowName": "5",
+          "placeName": "33",
+          "nextPlace": null,
+          "previusPlace": "32",
+          "upPlace": "33",
+          "downPlace": "33",
+          "coordinate": "5:33"
+        },
+        {
+          "rowName": "5",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": "33",
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "5:34"
+        }
+      ]
+    },
+    {
+      "name": "4",
+      "places": [
+        {
+          "rowName": "4",
+          "placeName": "1",
+          "nextPlace": "2",
+          "previusPlace": "4",
+          "upPlace": "1",
+          "downPlace": "1",
+          "coordinate": "6:1"
+        },
+        {
+          "rowName": "4",
+          "placeName": "2",
+          "nextPlace": "3",
+          "previusPlace": "1",
+          "upPlace": "2",
+          "downPlace": "2",
+          "coordinate": "6:2"
+        },
+        {
+          "rowName": "4",
+          "placeName": "3",
+          "nextPlace": "4",
+          "previusPlace": "2",
+          "upPlace": "3",
+          "downPlace": "3",
+          "coordinate": "6:3"
+        },
+        {
+          "rowName": "4",
+          "placeName": "4",
+          "nextPlace": "5",
+          "previusPlace": "3",
+          "upPlace": "4",
+          "downPlace": "4",
+          "coordinate": "6:4"
+        },
+        {
+          "rowName": "4",
+          "placeName": "5",
+          "nextPlace": "6",
+          "previusPlace": "4",
+          "upPlace": "5",
+          "downPlace": "5",
+          "coordinate": "6:5"
+        },
+        {
+          "rowName": "4",
+          "placeName": "6",
+          "nextPlace": "7",
+          "previusPlace": "5",
+          "upPlace": "6",
+          "downPlace": "6",
+          "coordinate": "6:6"
+        },
+        {
+          "rowName": "4",
+          "placeName": "7",
+          "nextPlace": "8",
+          "previusPlace": "6",
+          "upPlace": "7",
+          "downPlace": "7",
+          "coordinate": "6:7"
+        },
+        {
+          "rowName": "4",
+          "placeName": "8",
+          "nextPlace": "9",
+          "previusPlace": "7",
+          "upPlace": "8",
+          "downPlace": "8",
+          "coordinate": "6:8"
+        },
+        {
+          "rowName": "4",
+          "placeName": "9",
+          "nextPlace": "10",
+          "previusPlace": "8",
+          "upPlace": "9",
+          "downPlace": "9",
+          "coordinate": "6:9"
+        },
+        {
+          "rowName": "4",
+          "placeName": "10",
+          "nextPlace": "11",
+          "previusPlace": "9",
+          "upPlace": null,
+          "downPlace": "10",
+          "coordinate": "6:10"
+        },
+        {
+          "rowName": "4",
+          "placeName": "11",
+          "nextPlace": "12",
+          "previusPlace": "10",
+          "upPlace": null,
+          "downPlace": "11",
+          "coordinate": "6:11"
+        },
+        {
+          "rowName": "4",
+          "placeName": "12",
+          "nextPlace": "13",
+          "previusPlace": "11",
+          "upPlace": null,
+          "downPlace": "12",
+          "coordinate": "6:12"
+        },
+        {
+          "rowName": "4",
+          "placeName": "13",
+          "nextPlace": "14",
+          "previusPlace": "12",
+          "upPlace": null,
+          "downPlace": "13",
+          "coordinate": "6:13"
+        },
+        {
+          "rowName": "4",
+          "placeName": "14",
+          "nextPlace": "15",
+          "previusPlace": "13",
+          "upPlace": null,
+          "downPlace": "14",
+          "coordinate": "6:14"
+        },
+        {
+          "rowName": "4",
+          "placeName": "15",
+          "nextPlace": "16",
+          "previusPlace": "14",
+          "upPlace": null,
+          "downPlace": "15",
+          "coordinate": "6:15"
+        },
+        {
+          "rowName": "4",
+          "placeName": "16",
+          "nextPlace": "17",
+          "previusPlace": "15",
+          "upPlace": null,
+          "downPlace": "16",
+          "coordinate": "6:16"
+        },
+        {
+          "rowName": "4",
+          "placeName": "17",
+          "nextPlace": "18",
+          "previusPlace": "16",
+          "upPlace": null,
+          "downPlace": "17",
+          "coordinate": "6:17"
+        },
+        {
+          "rowName": "4",
+          "placeName": "18",
+          "nextPlace": "19",
+          "previusPlace": "17",
+          "upPlace": null,
+          "downPlace": "18",
+          "coordinate": "6:18"
+        },
+        {
+          "rowName": "4",
+          "placeName": "19",
+          "nextPlace": "20",
+          "previusPlace": "18",
+          "upPlace": null,
+          "downPlace": "19",
+          "coordinate": "6:19"
+        },
+        {
+          "rowName": "4",
+          "placeName": "20",
+          "nextPlace": "21",
+          "previusPlace": "19",
+          "upPlace": null,
+          "downPlace": "20",
+          "coordinate": "6:20"
+        },
+        {
+          "rowName": "4",
+          "placeName": "21",
+          "nextPlace": "22",
+          "previusPlace": "20",
+          "upPlace": null,
+          "downPlace": "21",
+          "coordinate": "6:21"
+        },
+        {
+          "rowName": "4",
+          "placeName": "22",
+          "nextPlace": "23",
+          "previusPlace": "21",
+          "upPlace": null,
+          "downPlace": "22",
+          "coordinate": "6:22"
+        },
+        {
+          "rowName": "4",
+          "placeName": "23",
+          "nextPlace": "24",
+          "previusPlace": "22",
+          "upPlace": null,
+          "downPlace": "23",
+          "coordinate": "6:23"
+        },
+        {
+          "rowName": "4",
+          "placeName": "24",
+          "nextPlace": "25",
+          "previusPlace": "23",
+          "upPlace": null,
+          "downPlace": "24",
+          "coordinate": "6:24"
+        },
+        {
+          "rowName": "4",
+          "placeName": "25",
+          "nextPlace": "26",
+          "previusPlace": "24",
+          "upPlace": null,
+          "downPlace": "25",
+          "coordinate": "6:25"
+        },
+        {
+          "rowName": "4",
+          "placeName": "26",
+          "nextPlace": "27",
+          "previusPlace": "25",
+          "upPlace": "26",
+          "downPlace": "26",
+          "coordinate": "6:26"
+        },
+        {
+          "rowName": "4",
+          "placeName": "27",
+          "nextPlace": "28",
+          "previusPlace": "26",
+          "upPlace": "27",
+          "downPlace": "27",
+          "coordinate": "6:27"
+        },
+        {
+          "rowName": "4",
+          "placeName": "28",
+          "nextPlace": "29",
+          "previusPlace": "27",
+          "upPlace": "28",
+          "downPlace": "28",
+          "coordinate": "6:28"
+        },
+        {
+          "rowName": "4",
+          "placeName": "29",
+          "nextPlace": "30",
+          "previusPlace": "28",
+          "upPlace": "29",
+          "downPlace": "29",
+          "coordinate": "6:29"
+        },
+        {
+          "rowName": "4",
+          "placeName": "30",
+          "nextPlace": "31",
+          "previusPlace": "29",
+          "upPlace": "30",
+          "downPlace": "30",
+          "coordinate": "6:30"
+        },
+        {
+          "rowName": "4",
+          "placeName": "31",
+          "nextPlace": "32",
+          "previusPlace": "30",
+          "upPlace": "31",
+          "downPlace": "31",
+          "coordinate": "6:31"
+        },
+        {
+          "rowName": "4",
+          "placeName": "32",
+          "nextPlace": "33",
+          "previusPlace": "31",
+          "upPlace": "32",
+          "downPlace": "32",
+          "coordinate": "6:32"
+        },
+        {
+          "rowName": "4",
+          "placeName": "33",
+          "nextPlace": null,
+          "previusPlace": "32",
+          "upPlace": "33",
+          "downPlace": "33",
+          "coordinate": "6:33"
+        },
+        {
+          "rowName": "4",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": "33",
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "6:34"
+        }
+      ]
+    },
+    {
+      "name": "3",
+      "places": [
+        {
+          "rowName": "3",
+          "placeName": "1",
+          "nextPlace": "2",
+          "previusPlace": "3",
+          "upPlace": "1",
+          "downPlace": "1",
+          "coordinate": "7:1"
+        },
+        {
+          "rowName": "3",
+          "placeName": "2",
+          "nextPlace": "3",
+          "previusPlace": "1",
+          "upPlace": "2",
+          "downPlace": "2",
+          "coordinate": "7:2"
+        },
+        {
+          "rowName": "3",
+          "placeName": "3",
+          "nextPlace": "4",
+          "previusPlace": "2",
+          "upPlace": "3",
+          "downPlace": "3",
+          "coordinate": "7:3"
+        },
+        {
+          "rowName": "3",
+          "placeName": "4",
+          "nextPlace": "5",
+          "previusPlace": "3",
+          "upPlace": "4",
+          "downPlace": "4",
+          "coordinate": "7:4"
+        },
+        {
+          "rowName": "3",
+          "placeName": "5",
+          "nextPlace": "6",
+          "previusPlace": "4",
+          "upPlace": "5",
+          "downPlace": "5",
+          "coordinate": "7:5"
+        },
+        {
+          "rowName": "3",
+          "placeName": "6",
+          "nextPlace": "7",
+          "previusPlace": "5",
+          "upPlace": "6",
+          "downPlace": "6",
+          "coordinate": "7:6"
+        },
+        {
+          "rowName": "3",
+          "placeName": "7",
+          "nextPlace": "8",
+          "previusPlace": "6",
+          "upPlace": "7",
+          "downPlace": "7",
+          "coordinate": "7:7"
+        },
+        {
+          "rowName": "3",
+          "placeName": "8",
+          "nextPlace": "9",
+          "previusPlace": "7",
+          "upPlace": "8",
+          "downPlace": "8",
+          "coordinate": "7:8"
+        },
+        {
+          "rowName": "3",
+          "placeName": "9",
+          "nextPlace": "10",
+          "previusPlace": "8",
+          "upPlace": "9",
+          "downPlace": "9",
+          "coordinate": "7:9"
+        },
+        {
+          "rowName": "3",
+          "placeName": "10",
+          "nextPlace": "11",
+          "previusPlace": "9",
+          "upPlace": "10",
+          "downPlace": "10",
+          "coordinate": "7:10"
+        },
+        {
+          "rowName": "3",
+          "placeName": "11",
+          "nextPlace": "12",
+          "previusPlace": "10",
+          "upPlace": "11",
+          "downPlace": "11",
+          "coordinate": "7:11"
+        },
+        {
+          "rowName": "3",
+          "placeName": "12",
+          "nextPlace": "13",
+          "previusPlace": "11",
+          "upPlace": "12",
+          "downPlace": "12",
+          "coordinate": "7:12"
+        },
+        {
+          "rowName": "3",
+          "placeName": "13",
+          "nextPlace": "14",
+          "previusPlace": "12",
+          "upPlace": "13",
+          "downPlace": "13",
+          "coordinate": "7:13"
+        },
+        {
+          "rowName": "3",
+          "placeName": "14",
+          "nextPlace": "15",
+          "previusPlace": "13",
+          "upPlace": "14",
+          "downPlace": "14",
+          "coordinate": "7:14"
+        },
+        {
+          "rowName": "3",
+          "placeName": "15",
+          "nextPlace": "16",
+          "previusPlace": "14",
+          "upPlace": "15",
+          "downPlace": "15",
+          "coordinate": "7:15"
+        },
+        {
+          "rowName": "3",
+          "placeName": "16",
+          "nextPlace": "17",
+          "previusPlace": "15",
+          "upPlace": "16",
+          "downPlace": "16",
+          "coordinate": "7:16"
+        },
+        {
+          "rowName": "3",
+          "placeName": "17",
+          "nextPlace": "18",
+          "previusPlace": "16",
+          "upPlace": "17",
+          "downPlace": "17",
+          "coordinate": "7:17"
+        },
+        {
+          "rowName": "3",
+          "placeName": "18",
+          "nextPlace": "19",
+          "previusPlace": "17",
+          "upPlace": "18",
+          "downPlace": "18",
+          "coordinate": "7:18"
+        },
+        {
+          "rowName": "3",
+          "placeName": "19",
+          "nextPlace": "20",
+          "previusPlace": "18",
+          "upPlace": "19",
+          "downPlace": "19",
+          "coordinate": "7:19"
+        },
+        {
+          "rowName": "3",
+          "placeName": "20",
+          "nextPlace": "21",
+          "previusPlace": "19",
+          "upPlace": "20",
+          "downPlace": "20",
+          "coordinate": "7:20"
+        },
+        {
+          "rowName": "3",
+          "placeName": "21",
+          "nextPlace": "22",
+          "previusPlace": "20",
+          "upPlace": "21",
+          "downPlace": "21",
+          "coordinate": "7:21"
+        },
+        {
+          "rowName": "3",
+          "placeName": "22",
+          "nextPlace": "23",
+          "previusPlace": "21",
+          "upPlace": "22",
+          "downPlace": "22",
+          "coordinate": "7:22"
+        },
+        {
+          "rowName": "3",
+          "placeName": "23",
+          "nextPlace": "24",
+          "previusPlace": "22",
+          "upPlace": "23",
+          "downPlace": "23",
+          "coordinate": "7:23"
+        },
+        {
+          "rowName": "3",
+          "placeName": "24",
+          "nextPlace": "25",
+          "previusPlace": "23",
+          "upPlace": "24",
+          "downPlace": "24",
+          "coordinate": "7:24"
+        },
+        {
+          "rowName": "3",
+          "placeName": "25",
+          "nextPlace": "26",
+          "previusPlace": "24",
+          "upPlace": "25",
+          "downPlace": "25",
+          "coordinate": "7:25"
+        },
+        {
+          "rowName": "3",
+          "placeName": "26",
+          "nextPlace": "27",
+          "previusPlace": "25",
+          "upPlace": "26",
+          "downPlace": "26",
+          "coordinate": "7:26"
+        },
+        {
+          "rowName": "3",
+          "placeName": "27",
+          "nextPlace": "28",
+          "previusPlace": "26",
+          "upPlace": "27",
+          "downPlace": "27",
+          "coordinate": "7:27"
+        },
+        {
+          "rowName": "3",
+          "placeName": "28",
+          "nextPlace": "29",
+          "previusPlace": "27",
+          "upPlace": "28",
+          "downPlace": "28",
+          "coordinate": "7:28"
+        },
+        {
+          "rowName": "3",
+          "placeName": "29",
+          "nextPlace": "30",
+          "previusPlace": "28",
+          "upPlace": "29",
+          "downPlace": "29",
+          "coordinate": "7:29"
+        },
+        {
+          "rowName": "3",
+          "placeName": "30",
+          "nextPlace": "31",
+          "previusPlace": "29",
+          "upPlace": "30",
+          "downPlace": "30",
+          "coordinate": "7:30"
+        },
+        {
+          "rowName": "3",
+          "placeName": "31",
+          "nextPlace": "32",
+          "previusPlace": "30",
+          "upPlace": "31",
+          "downPlace": "31",
+          "coordinate": "7:31"
+        },
+        {
+          "rowName": "3",
+          "placeName": "32",
+          "nextPlace": "33",
+          "previusPlace": "31",
+          "upPlace": "32",
+          "downPlace": "32",
+          "coordinate": "7:32"
+        },
+        {
+          "rowName": "3",
+          "placeName": "33",
+          "nextPlace": null,
+          "previusPlace": "32",
+          "upPlace": "33",
+          "downPlace": "33",
+          "coordinate": "7:33"
+        },
+        {
+          "rowName": "3",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": "33",
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "7:34"
+        }
+      ]
+    },
+    {
+      "name": "2",
+      "places": [
+        {
+          "rowName": "2",
+          "placeName": "1",
+          "nextPlace": "2",
+          "previusPlace": "2",
+          "upPlace": "1",
+          "downPlace": "1",
+          "coordinate": "8:1"
+        },
+        {
+          "rowName": "2",
+          "placeName": "2",
+          "nextPlace": "3",
+          "previusPlace": "1",
+          "upPlace": "2",
+          "downPlace": "2",
+          "coordinate": "8:2"
+        },
+        {
+          "rowName": "2",
+          "placeName": "3",
+          "nextPlace": "4",
+          "previusPlace": "2",
+          "upPlace": "3",
+          "downPlace": "3",
+          "coordinate": "8:3"
+        },
+        {
+          "rowName": "2",
+          "placeName": "4",
+          "nextPlace": "5",
+          "previusPlace": "3",
+          "upPlace": "4",
+          "downPlace": "4",
+          "coordinate": "8:4"
+        },
+        {
+          "rowName": "2",
+          "placeName": "5",
+          "nextPlace": "6",
+          "previusPlace": "4",
+          "upPlace": "5",
+          "downPlace": "5",
+          "coordinate": "8:5"
+        },
+        {
+          "rowName": "2",
+          "placeName": "6",
+          "nextPlace": "7",
+          "previusPlace": "5",
+          "upPlace": "6",
+          "downPlace": "6",
+          "coordinate": "8:6"
+        },
+        {
+          "rowName": "2",
+          "placeName": "7",
+          "nextPlace": "8",
+          "previusPlace": "6",
+          "upPlace": "7",
+          "downPlace": "7",
+          "coordinate": "8:7"
+        },
+        {
+          "rowName": "2",
+          "placeName": "8",
+          "nextPlace": "9",
+          "previusPlace": "7",
+          "upPlace": "8",
+          "downPlace": "8",
+          "coordinate": "8:8"
+        },
+        {
+          "rowName": "2",
+          "placeName": "9",
+          "nextPlace": "10",
+          "previusPlace": "8",
+          "upPlace": "9",
+          "downPlace": "9",
+          "coordinate": "8:9"
+        },
+        {
+          "rowName": "2",
+          "placeName": "10",
+          "nextPlace": "11",
+          "previusPlace": "9",
+          "upPlace": "10",
+          "downPlace": "10",
+          "coordinate": "8:10"
+        },
+        {
+          "rowName": "2",
+          "placeName": "11",
+          "nextPlace": "12",
+          "previusPlace": "10",
+          "upPlace": "11",
+          "downPlace": "11",
+          "coordinate": "8:11"
+        },
+        {
+          "rowName": "2",
+          "placeName": "12",
+          "nextPlace": "13",
+          "previusPlace": "11",
+          "upPlace": "12",
+          "downPlace": "12",
+          "coordinate": "8:12"
+        },
+        {
+          "rowName": "2",
+          "placeName": "13",
+          "nextPlace": "14",
+          "previusPlace": "12",
+          "upPlace": "13",
+          "downPlace": "13",
+          "coordinate": "8:13"
+        },
+        {
+          "rowName": "2",
+          "placeName": "14",
+          "nextPlace": "15",
+          "previusPlace": "13",
+          "upPlace": "14",
+          "downPlace": "14",
+          "coordinate": "8:14"
+        },
+        {
+          "rowName": "2",
+          "placeName": "15",
+          "nextPlace": "16",
+          "previusPlace": "14",
+          "upPlace": "15",
+          "downPlace": "15",
+          "coordinate": "8:15"
+        },
+        {
+          "rowName": "2",
+          "placeName": "16",
+          "nextPlace": "17",
+          "previusPlace": "15",
+          "upPlace": "16",
+          "downPlace": "16",
+          "coordinate": "8:16"
+        },
+        {
+          "rowName": "2",
+          "placeName": "17",
+          "nextPlace": "18",
+          "previusPlace": "16",
+          "upPlace": "17",
+          "downPlace": "17",
+          "coordinate": "8:17"
+        },
+        {
+          "rowName": "2",
+          "placeName": "18",
+          "nextPlace": "19",
+          "previusPlace": "17",
+          "upPlace": "18",
+          "downPlace": "18",
+          "coordinate": "8:18"
+        },
+        {
+          "rowName": "2",
+          "placeName": "19",
+          "nextPlace": "20",
+          "previusPlace": "18",
+          "upPlace": "19",
+          "downPlace": "19",
+          "coordinate": "8:19"
+        },
+        {
+          "rowName": "2",
+          "placeName": "20",
+          "nextPlace": "21",
+          "previusPlace": "19",
+          "upPlace": "20",
+          "downPlace": "20",
+          "coordinate": "8:20"
+        },
+        {
+          "rowName": "2",
+          "placeName": "21",
+          "nextPlace": "22",
+          "previusPlace": "20",
+          "upPlace": "21",
+          "downPlace": "21",
+          "coordinate": "8:21"
+        },
+        {
+          "rowName": "2",
+          "placeName": "22",
+          "nextPlace": "23",
+          "previusPlace": "21",
+          "upPlace": "22",
+          "downPlace": "22",
+          "coordinate": "8:22"
+        },
+        {
+          "rowName": "2",
+          "placeName": "23",
+          "nextPlace": "24",
+          "previusPlace": "22",
+          "upPlace": "23",
+          "downPlace": "23",
+          "coordinate": "8:23"
+        },
+        {
+          "rowName": "2",
+          "placeName": "24",
+          "nextPlace": "25",
+          "previusPlace": "23",
+          "upPlace": "24",
+          "downPlace": "24",
+          "coordinate": "8:24"
+        },
+        {
+          "rowName": "2",
+          "placeName": "25",
+          "nextPlace": "26",
+          "previusPlace": "24",
+          "upPlace": "25",
+          "downPlace": "25",
+          "coordinate": "8:25"
+        },
+        {
+          "rowName": "2",
+          "placeName": "26",
+          "nextPlace": "27",
+          "previusPlace": "25",
+          "upPlace": "26",
+          "downPlace": "26",
+          "coordinate": "8:26"
+        },
+        {
+          "rowName": "2",
+          "placeName": "27",
+          "nextPlace": "28",
+          "previusPlace": "26",
+          "upPlace": "27",
+          "downPlace": "27",
+          "coordinate": "8:27"
+        },
+        {
+          "rowName": "2",
+          "placeName": "28",
+          "nextPlace": "29",
+          "previusPlace": "27",
+          "upPlace": "28",
+          "downPlace": "28",
+          "coordinate": "8:28"
+        },
+        {
+          "rowName": "2",
+          "placeName": "29",
+          "nextPlace": "30",
+          "previusPlace": "28",
+          "upPlace": "29",
+          "downPlace": "29",
+          "coordinate": "8:29"
+        },
+        {
+          "rowName": "2",
+          "placeName": "30",
+          "nextPlace": "31",
+          "previusPlace": "29",
+          "upPlace": "30",
+          "downPlace": "30",
+          "coordinate": "8:30"
+        },
+        {
+          "rowName": "2",
+          "placeName": "31",
+          "nextPlace": "32",
+          "previusPlace": "30",
+          "upPlace": "31",
+          "downPlace": "31",
+          "coordinate": "8:31"
+        },
+        {
+          "rowName": "2",
+          "placeName": "32",
+          "nextPlace": "33",
+          "previusPlace": "31",
+          "upPlace": "32",
+          "downPlace": "32",
+          "coordinate": "8:32"
+        },
+        {
+          "rowName": "2",
+          "placeName": "33",
+          "nextPlace": null,
+          "previusPlace": "32",
+          "upPlace": "33",
+          "downPlace": "33",
+          "coordinate": "8:33"
+        },
+        {
+          "rowName": "2",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": "33",
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "8:34"
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "places": [
+        {
+          "rowName": "1",
+          "placeName": "1",
+          "nextPlace": "2",
+          "previusPlace": "1",
+          "upPlace": "1",
+          "downPlace": null,
+          "coordinate": "9:1"
+        },
+        {
+          "rowName": "1",
+          "placeName": "2",
+          "nextPlace": "3",
+          "previusPlace": "1",
+          "upPlace": "2",
+          "downPlace": null,
+          "coordinate": "9:2"
+        },
+        {
+          "rowName": "1",
+          "placeName": "3",
+          "nextPlace": "4",
+          "previusPlace": "2",
+          "upPlace": "3",
+          "downPlace": null,
+          "coordinate": "9:3"
+        },
+        {
+          "rowName": "1",
+          "placeName": "4",
+          "nextPlace": "5",
+          "previusPlace": "3",
+          "upPlace": "4",
+          "downPlace": null,
+          "coordinate": "9:4"
+        },
+        {
+          "rowName": "1",
+          "placeName": "5",
+          "nextPlace": "6",
+          "previusPlace": "4",
+          "upPlace": "5",
+          "downPlace": null,
+          "coordinate": "9:5"
+        },
+        {
+          "rowName": "1",
+          "placeName": "6",
+          "nextPlace": "7",
+          "previusPlace": "5",
+          "upPlace": "6",
+          "downPlace": null,
+          "coordinate": "9:6"
+        },
+        {
+          "rowName": "1",
+          "placeName": "7",
+          "nextPlace": "8",
+          "previusPlace": "6",
+          "upPlace": "7",
+          "downPlace": null,
+          "coordinate": "9:7"
+        },
+        {
+          "rowName": "1",
+          "placeName": "8",
+          "nextPlace": "9",
+          "previusPlace": "7",
+          "upPlace": "8",
+          "downPlace": null,
+          "coordinate": "9:8"
+        },
+        {
+          "rowName": "1",
+          "placeName": "9",
+          "nextPlace": "10",
+          "previusPlace": "8",
+          "upPlace": "9",
+          "downPlace": null,
+          "coordinate": "9:9"
+        },
+        {
+          "rowName": "1",
+          "placeName": "10",
+          "nextPlace": "11",
+          "previusPlace": "9",
+          "upPlace": "10",
+          "downPlace": null,
+          "coordinate": "9:10"
+        },
+        {
+          "rowName": "1",
+          "placeName": "11",
+          "nextPlace": "12",
+          "previusPlace": "10",
+          "upPlace": "11",
+          "downPlace": null,
+          "coordinate": "9:11"
+        },
+        {
+          "rowName": "1",
+          "placeName": "12",
+          "nextPlace": "13",
+          "previusPlace": "11",
+          "upPlace": "12",
+          "downPlace": null,
+          "coordinate": "9:12"
+        },
+        {
+          "rowName": "1",
+          "placeName": "13",
+          "nextPlace": "14",
+          "previusPlace": "12",
+          "upPlace": "13",
+          "downPlace": null,
+          "coordinate": "9:13"
+        },
+        {
+          "rowName": "1",
+          "placeName": "14",
+          "nextPlace": "15",
+          "previusPlace": "13",
+          "upPlace": "14",
+          "downPlace": null,
+          "coordinate": "9:14"
+        },
+        {
+          "rowName": "1",
+          "placeName": "15",
+          "nextPlace": "16",
+          "previusPlace": "14",
+          "upPlace": "15",
+          "downPlace": null,
+          "coordinate": "9:15"
+        },
+        {
+          "rowName": "1",
+          "placeName": "16",
+          "nextPlace": "17",
+          "previusPlace": "15",
+          "upPlace": "16",
+          "downPlace": null,
+          "coordinate": "9:16"
+        },
+        {
+          "rowName": "1",
+          "placeName": "17",
+          "nextPlace": "18",
+          "previusPlace": "16",
+          "upPlace": "17",
+          "downPlace": null,
+          "coordinate": "9:17"
+        },
+        {
+          "rowName": "1",
+          "placeName": "18",
+          "nextPlace": "19",
+          "previusPlace": "17",
+          "upPlace": "18",
+          "downPlace": null,
+          "coordinate": "9:18"
+        },
+        {
+          "rowName": "1",
+          "placeName": "19",
+          "nextPlace": "20",
+          "previusPlace": "18",
+          "upPlace": "19",
+          "downPlace": null,
+          "coordinate": "9:19"
+        },
+        {
+          "rowName": "1",
+          "placeName": "20",
+          "nextPlace": "21",
+          "previusPlace": "19",
+          "upPlace": "20",
+          "downPlace": null,
+          "coordinate": "9:20"
+        },
+        {
+          "rowName": "1",
+          "placeName": "21",
+          "nextPlace": "22",
+          "previusPlace": "20",
+          "upPlace": "21",
+          "downPlace": null,
+          "coordinate": "9:21"
+        },
+        {
+          "rowName": "1",
+          "placeName": "22",
+          "nextPlace": "23",
+          "previusPlace": "21",
+          "upPlace": "22",
+          "downPlace": null,
+          "coordinate": "9:22"
+        },
+        {
+          "rowName": "1",
+          "placeName": "23",
+          "nextPlace": "24",
+          "previusPlace": "22",
+          "upPlace": "23",
+          "downPlace": null,
+          "coordinate": "9:23"
+        },
+        {
+          "rowName": "1",
+          "placeName": "24",
+          "nextPlace": "25",
+          "previusPlace": "23",
+          "upPlace": "24",
+          "downPlace": null,
+          "coordinate": "9:24"
+        },
+        {
+          "rowName": "1",
+          "placeName": "25",
+          "nextPlace": "26",
+          "previusPlace": "24",
+          "upPlace": "25",
+          "downPlace": null,
+          "coordinate": "9:25"
+        },
+        {
+          "rowName": "1",
+          "placeName": "26",
+          "nextPlace": "27",
+          "previusPlace": "25",
+          "upPlace": "26",
+          "downPlace": null,
+          "coordinate": "9:26"
+        },
+        {
+          "rowName": "1",
+          "placeName": "27",
+          "nextPlace": "28",
+          "previusPlace": "26",
+          "upPlace": "27",
+          "downPlace": null,
+          "coordinate": "9:27"
+        },
+        {
+          "rowName": "1",
+          "placeName": "28",
+          "nextPlace": "29",
+          "previusPlace": "27",
+          "upPlace": "28",
+          "downPlace": null,
+          "coordinate": "9:28"
+        },
+        {
+          "rowName": "1",
+          "placeName": "29",
+          "nextPlace": "30",
+          "previusPlace": "28",
+          "upPlace": "29",
+          "downPlace": null,
+          "coordinate": "9:29"
+        },
+        {
+          "rowName": "1",
+          "placeName": "30",
+          "nextPlace": "31",
+          "previusPlace": "29",
+          "upPlace": "30",
+          "downPlace": null,
+          "coordinate": "9:30"
+        },
+        {
+          "rowName": "1",
+          "placeName": "31",
+          "nextPlace": "32",
+          "previusPlace": "30",
+          "upPlace": "31",
+          "downPlace": null,
+          "coordinate": "9:31"
+        },
+        {
+          "rowName": "1",
+          "placeName": "32",
+          "nextPlace": "33",
+          "previusPlace": "31",
+          "upPlace": "32",
+          "downPlace": null,
+          "coordinate": "9:32"
+        },
+        {
+          "rowName": "1",
+          "placeName": "33",
+          "nextPlace": null,
+          "previusPlace": "32",
+          "upPlace": "33",
+          "downPlace": null,
+          "coordinate": "9:33"
+        },
+        {
+          "rowName": "1",
+          "placeName": null,
+          "nextPlace": null,
+          "previusPlace": "33",
+          "upPlace": null,
+          "downPlace": null,
+          "coordinate": "9:34"
+        }
+      ]
+    }
+  ]
+}

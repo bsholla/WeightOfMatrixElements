@@ -1,0 +1,22 @@
+{
+  "azaz": {
+    "name":"azaz",
+    "display": "↓→",
+    "info": "Horizontal: Left to Right, Vertical: Up to Down"
+  },
+  "zaaz": {
+    "name":"zaaz",
+    "display": "←↓",
+    "info": "Horizontal: Right to Left  , Vertical: Up to Down"
+  },
+  "zaza": {
+    "name":"zaza",
+    "display": "←↑",
+    "info": "Horizontal: Right to Left  , Vertical: Down to Up"
+  },
+  "azza": {
+    "name":"azza",
+    "display": "↑→",
+    "info": "Horizontal:  Left to Right  , Vertical: Down to Up"
+  }
+}
