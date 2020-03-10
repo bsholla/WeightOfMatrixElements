@@ -133,7 +133,7 @@ class App extends React.Component {
             s.places.map((p, j) => {
                 if (p.placeName != null) {
                     let dist = Math.sqrt((primaryCoord.x - j) ** 2 + (primaryCoord.y - i) ** 2).toFixed(2)
-                    sectorW[i].push({"x": j, "y": i, weight: parseFloat(dist)})
+                    sectorW[i].push({"x": j, "y": i, weight: parseFloat(dist),name:p.placeName})
                     countPlaces++;
                 }
 
@@ -148,8 +148,9 @@ class App extends React.Component {
             //console.log(func.getMinWeight(sectorW[i]))
         })
 
-        console.log("sectorW", sectorW)
-        console.log("minArray", minArray)
+
+
+        return {sectorW,minArray}
     }
 
 
@@ -163,7 +164,10 @@ class App extends React.Component {
         const primaryCoord = this.generatePreferedPoint(sector, sortType)// kjo eshte per azaz
 
 
-        this.getPlacesWithWeight()
+        const {sectorW,minArray}=this.getPlacesWithWeight()
+
+        console.log("sectorW", sectorW)
+        console.log("minArray", minArray)
         return (
             <div>
                 <div>
@@ -186,7 +190,7 @@ class App extends React.Component {
                     </div>
                 ))
                 }
-                <Porosit/>
+                <Porosit minArray={minArray} sectorW={sectorW}/>
             </div>
         );
     }
@@ -195,11 +199,3 @@ class App extends React.Component {
 
 export default App;
 
-/*
-{board.map((row, i) => (
-    <div key={i}>
-        {row.map((col, j) => (
-            <span key={j}>{col}</span>
-        ))}
-    </div>
-))}*/

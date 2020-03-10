@@ -1,6 +1,7 @@
 import React from 'react';
 
 import './App.css';
+import sector from "./sector";
 
 
 class Porosit extends React.Component {
@@ -9,8 +10,9 @@ class Porosit extends React.Component {
     };
 
     submit = () => {
-       const {sasia}=this.state
-       console.log(sasia)
+       const {sasia}=this.state;
+       const test = this.props.minArray.filter(row => row.freePlaces >= sasia).reduce((row, nextRow) => row.min < nextRow.min ? row : nextRow);
+       console.log(sasia, this.props.sectorW[test.row].slice(0, sasia))
     }
 
     addSasia = (e) => {
